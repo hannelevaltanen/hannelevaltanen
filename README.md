@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hannelevaltanen
 - 👀 I’m interested in ux/ui design, design systems, accessibility, animations, frontend development
-- 🌱 I’m currently learning web maps and data visualization
+- 🌱 I’m currently learning web components
